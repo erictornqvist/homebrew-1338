@@ -13,7 +13,7 @@ AddPrefabPostInit("krampus", function(inst)
 		{'nightmarefuel',     1.0},
 		{'nightmarefuel',     1.0},
 		{'nightmarefuel',     1.0},
-		{'krampus_sack', 0.33},
+		{'krampus_sack', 0.5},
 	})
   end
 )
